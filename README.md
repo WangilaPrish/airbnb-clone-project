@@ -113,7 +113,6 @@ Understanding the design properties such as colors, fonts, and spacing from the 
 
 ---
 
-✅ **Repository:** https://github.com/YOUR_USERNAME/airbnb-clone-project
 
 ✅ **Ready for Manual Review After Completion!**
 
