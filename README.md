@@ -7,11 +7,13 @@ Welcome to the **StayEase** Airbnb Clone Project!
 The goal of this project is to build a simple yet fully functional booking and management system modeled after Airbnb. We will focus on clean UI/UX design and core functionalities such as property listing, detailed property view, booking/reservation, and search features.
 
 ### Project Goals
+
 - Develop practical experience building a booking application.
 - Understand full project lifecycle: planning, design, development, and deployment.
 - Focus on user-friendly, responsive, and accessible design.
 
 ### Tech Stack
+
 - **Frontend:** React.js, TypeScript, Next.js, Tailwind CSS
 - **Backend:** Django, Python, MySQL
 - **State Management:** Context API / Redux
@@ -22,12 +24,14 @@ The goal of this project is to build a simple yet fully functional booking and m
 ## UI/UX Design Planning
 
 ### Design Goals
+
 - Create an intuitive and visually appealing interface.
 - Ensure smooth navigation between pages.
 - Optimize for mobile and desktop responsiveness.
 - Provide a seamless booking experience.
 
 ### Key Features
+
 - Property Listings
 - Property Details
 - Booking System
@@ -43,6 +47,7 @@ The goal of this project is to build a simple yet fully functional booking and m
 | Simple Checkout View | Allows users to select dates, number of guests, and confirm the booking. Streamlined for ease of use. |
 
 ### Importance of User-Friendly Design
+
 A user-friendly booking system ensures that users can easily find and reserve accommodations without frustration. Clear layouts, smooth flows, and quick load times increase trust, satisfaction, and repeat usage.
 
 ---
@@ -51,22 +56,25 @@ A user-friendly booking system ensures that users can easily find and reserve ac
 
 ### Figma Design Properties
 
-#### Color Styles:
+#### Color Styles
+
 - Primary Color: #FF5A5F (Coral Red)
 - Secondary Color: #767676 (Dark Gray)
 - Background Color: #FFFFFF (White)
 - Accent Color: #00A699 (Teal)
 
-#### Typography:
+#### Typography
+
 - Font Family: "Montserrat", sans-serif
 - Font Weights: 400 (Normal), 600 (Semi-Bold), 700 (Bold)
-- Font Sizes: 
+- Font Sizes:
   - Heading 1: 32px
   - Heading 2: 24px
   - Body Text: 16px
   - Caption: 12px
 
 ### Importance of Identifying Design Properties
+
 Understanding the design properties such as colors, fonts, and spacing from the mockup ensures consistency throughout the application. It maintains brand identity, enhances usability, and speeds up development by reducing guesswork.
 
 ---
@@ -113,4 +121,4 @@ Understanding the design properties such as colors, fonts, and spacing from the 
 
 ---
 
-# StayEase: Let's Build an Amazing Experience! 🚀🏡
+## StayEase: Let's Build an Amazing Experience! 🚀🏡
